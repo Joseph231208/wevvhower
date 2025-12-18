@@ -1,0 +1,63 @@
+body {
+    background: #7a5931;
+    background: linear-gradient(90deg, rgba(122, 89, 49, 1) 0%, rgba(5, 1, 1, 1) 100%);
+}
+
+#ryuk{
+    position: absolute;
+    margin: 10px;
+
+    height: 200px;
+    width: auto;
+    border: 10px solid pink;
+}
+
+#leight{
+    position: absolute;
+    margin: 10px;
+    margin-left: 80%;
+
+    height: 200px;
+    width: auto;
+    border: 10px solid pink;
+}
+
+
+#backgrount {
+    margin: 50px auto;
+    background:no-repeat url("https://i.pinimg.com/236x/18/60/f5/1860f53204b9a0cd714a0cc938563302.jpg");
+    background-size: cover;
+    display: flex;
+    background-position: center center;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;
+    border-radius: 20px;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+
+    height: 50vh;
+    width: 30vh;
+}
+
+#TheNote {
+
+   margin: 5px;
+   border-radius: 5px;
+
+}
+
+#bbutton {
+
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.div_negropole {
+    background-color: red;
+}
+
+li {
+    background-color: white;
+}
